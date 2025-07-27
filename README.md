@@ -13,9 +13,9 @@ This is a simple Job Listing and Management Application built using **Java**, **
 - Apache Tomcat (Embedded)
 - Maven
 
-## 📂 Project Structure
+## Future Enhancement 
 
-Future Enhancement 
+
 - use Database to store and fetch
 - more interactive GUI
 
